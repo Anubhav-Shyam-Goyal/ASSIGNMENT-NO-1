@@ -1,4 +1,3 @@
-#ASSIGNMENT-NO-1
 
 Q1)
 From sklearn.datasets load digits dataset and do following
