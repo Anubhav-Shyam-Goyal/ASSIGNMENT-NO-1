@@ -1,4 +1,4 @@
-
+#ASSIGNMENT-NO-1
 Q1)
 From sklearn.datasets load digits dataset and do following
 1. Classify digits (0 to 9) using KNN classifier. You can use different
